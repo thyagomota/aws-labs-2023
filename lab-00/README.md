@@ -10,7 +10,7 @@ Author: [Thyago Mota](https://github.com/thyagomota)
 
 ## Goal
 
-To create and configure an AWS Free Tier account and a users with administrator privilege. You will also install AWS's command line interface (CLI) and configure access to AWS through CLI. 
+To create and configure an AWS Free Tier account and a users with administrator privilege. Also, to install AWS's command line interface (CLI) and configure access to AWS through it. 
 
 ## AWS Free Tier Account 
 
