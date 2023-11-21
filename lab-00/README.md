@@ -21,7 +21,7 @@ To create an AWS Free Tier account, go to [Sign up for AWS](https://portal.aws.a
 * a phone number, and 
 * a credit card. 
 
-The email address used is referred to as the **Root user email address**. Make sure you keep this account's password secure. To configure this account click on the top-right drop-down menu with the account's name (see below). 
+The email address used is referred to as the **Root user email address**. Make sure to keep this account's password secure. To configure this account, click on the top-right drop-down menu where the account's name is shown (see below). 
 
 ![pic1.png](pics/pic1.png)
 
