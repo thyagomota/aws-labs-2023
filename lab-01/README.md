@@ -95,3 +95,7 @@ Select your instance and click on the drop-down **Instance state** menu. Next, s
 Optionally, you can delete the key that was created by selecting the **Network & Security - Key Pairs**. Select the key and then **Actions - Delete**. 
 
 ![pic6.png](pics/pic6.png)
+
+Also optionally, you can delete the security group that was created when you launch the EC2 instance. Go to **VPC - Security groups** and use the actions menu to delete the security group. 
+
+![pic7.png](pics/pic7.png)
