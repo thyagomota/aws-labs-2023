@@ -42,7 +42,7 @@ Click on **Launch instance**. Fill the information in each section using the fol
 
 When you are ready, click on **Launch instance**. Go to **EC2 - Instances** and wait until your instance state change to **Running**.
 
-Note that the access key is associated with the account that was used to create the EC2 instance. 
+Note that the access key is associated with the account that was used to create the EC2 instance. A copy of the access key is also stored in the EC2 instance file system. 
 
 ![pic2.png](pics/pic2.png)
 
